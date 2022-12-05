@@ -1,7 +1,7 @@
-﻿using DayFour;
+﻿using DayFive;
 
 class Program {
     static void Main(string[] args) {
-        new PartTwo("./data/4");
+        new PartTwo("./data/5");
     }
 }
